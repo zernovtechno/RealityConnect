@@ -20,3 +20,7 @@ Simple. For using on a Windows/in a "Release mode" you can just run .exe file. T
 7. Generated QR Code with link to MJPEG stream
 
 ## Basicly it working with my [Unity AR app for Android](https://github.com/ZernovTechno/AR)
+
+### Known Isues
+Issue: Black screen
+Solution: Set scale for monitor to 100% in Windows Preferences
