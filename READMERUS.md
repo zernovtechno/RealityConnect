@@ -1,4 +1,4 @@
-[README НА АНГЛИЙСКОМ](./README.md)
+[English README](./README.md)
 
 # RealityConnect
 
