@@ -4,7 +4,7 @@
 
 ## Управляется [Zernov](https://www.youtube.com/@zernovtech)
 
-##О
+## Что это?
 Python (особенно Windows) приложение, которое транслирует рабочий стол по протоколу MJPEG.
 Используется [Tkinter](https://docs.python.org/3/library/tkinter.html) для простого управления, [DXCam](https://github.com/ra1nty/DXcam) для скриншотов и [QRCode](https://pypi.org/project/qrcode/) для простого подключения.
 
