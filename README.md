@@ -10,7 +10,7 @@ Used [Tkinter](https://docs.python.org/3/library/tkinter.html) for easy control,
 
 Simple. For using on a Windows/in a "Release mode" you can just run .exe file. There are some controls in the Window:
 
-[RFConnect control panel](https://github.com/user-attachments/assets/b5c59837-13c6-4216-ace1-280b9056b6a4)
+![RFConnect control panel](https://github.com/user-attachments/assets/b5c59837-13c6-4216-ace1-280b9056b6a4)
 1. IP adress of your PC (Sets automaticly)
 2. Start/stop streaming
 3. Preview (Use standart browser)
