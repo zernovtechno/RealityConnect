@@ -135,7 +135,7 @@ def update_qr_code(ip):
     qr_photo = ImageTk.PhotoImage(qr)
     qr_label.config(image=qr_photo)
     qr_label.image = qr_photo  # Сохраняем ссылку на изображение
-    root.geometry("300x600")
+    root.geometry("300x650")
 
 def start_streaming(ip):
     global is_streaming
@@ -222,5 +222,6 @@ preview_label.pack(pady=10)
 
 qr_label = tk.Label(root)
 qr_label.pack(pady=10)
+
 
 root.mainloop()
